@@ -104,10 +104,6 @@ int main(){
 
 
 
-
-
-
-
     // //static 
     // Hero a;
 
@@ -129,19 +125,17 @@ int main(){
     // Hero Spiderman(Ironman);
     // Spiderman.print();
 
-
-    //object created statically
+//  object created statically
 //     Hero Ironman(10);
 //     cout << "Address of ramesh " <<&Ironman <<endl;
 //     Ironman.getHealth();
    
-// //    dynamically
-// //    Hero *h = new Hero;
+//     dynamically
+//     Hero *h = new Hero;
 //    Hero *h = new Hero(10);
 //    h->print();
 //    Hero temp(33,'B');
 //    temp.print();
-
 
 
 
